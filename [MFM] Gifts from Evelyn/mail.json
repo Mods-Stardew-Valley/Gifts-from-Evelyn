@@ -1,152 +1,222 @@
 [
-    //Reset de progressao para mods apos a v1.0.0
-    //Remover comentarios quando atualizar a versão ou lançar correção
-    //{	
-    //"Id":"ResetCHANGE",
-	//"AutoOpen": true,
-    //"MailReceivedToRemove": [
-	//	"MailCHANGE01",
-	//	"MailCHANGE02",
-	//	"MailCHANGE03",
-	//	"MailCHANGE04",
-	//	"MailCHANGE05",
-	//	"MailCHANGE06",
-	//	"MailCHANGE07",
-	//	"MailCHANGE08",
-	//	"MailCHANGE09",
-	//	"MailCHANGE10"
-	//    ]
-    //},
-
-    //Modificar os nomes e trocar os presentes
-    //Adicionar ou remover os presentes conforme necessario
-    //Alterar de Object para BigCraftable quando necessario
-    //Caso seja necessario usar o exemplo com "Index" das cartas repetiveis 
-        //Ideal para items com nomes diferentes ou caracteres especiais
-	//Alterar codigos dos eventos quando for usar ou remover linha quando nao for necessario
-    //Remover todos os comentarios desnecessarios
-
-{
-    "Id": "MailCHANGE01",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE01",
-    "Attachments": [ { "Type": "Object","Name": "ITEM","Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 1 } ]
-},
-
-{ 
-    "Id": "MailCHANGE02",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE02",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
-    "FriendshipConditions": [ {"NpcName": "CHANGE","FriendshipLevel": 2 } ],
-	"EventsSeen": [ "??" ]
-},
-
-{
-    "Id": "MailCHANGE03",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE03",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 3} ]
-},
-
-{
-    "Id": "MailCHANGE04",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE04",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 4 } ],
-	"EventsSeen": [ "??" ]
-},
-
-{
-    "Id": "MailCHANGE05",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE05",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 5 } ]
-},
-
-{
-    "Id": "MailCHANGE06",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE06",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 6 } ],
-	"EventsSeen": [ "??" ]
-},
-
-{
-    "Id": "MailCHANGE07",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE07",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 7 } ]
-},
-
-{
-    "Id": "MailCHANGE08",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE08",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 8 } ],
-	"EventsSeen": [ "??" ]
-},
-
-{
-    "Id": "MailCHANGE09",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE09",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 9 } ]
-},
-
-{
-    "Id": "MailCHANGE10",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE10",
-    "Attachments": [ { "Type": "Object", "Index": "123", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 10 } ],
-	"EventsSeen": [ "??" ]
-},
-
-    //Alterar os presentes e colocar os nomes nos comentarios
-    //Usar o mesmo Id com quantidades diferentes quando necessario
-
-{
-	"Id": "CHANGERepeteable",
-    "GroupId": "CHANGELetters",
-	"Text": "CHANGERepeteable",
-	"Repeatable": true,
-	"RandomChance": 0.075,
-	"FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 1 } ],
-	"RandomlyChooseAttachment": 1,
-	"Attachments": [
-		{ "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
-        { "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM    
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
-		
-        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
-		
-        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
-		
-        { "Type": "Object", "Index": "000", "Stack": 5, "RandomGroup": "GROUPNAME" }, //ITEM 
-		{ "Type": "Object", "Index": "000", "Stack": 10, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 15, "RandomGroup": "GROUPNAME" }, //ITEM
-		
-        { "Type": "Object", "Index": "000", "Stack": 3,  "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 5,  "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 7,  "RandomGroup": "GROUPNAME" } //ITEM
-    ]
-}
+  // Carta de 1 Coração: Sementes de Flores Mistas e Sementes Mistas
+  {
+    "Id": "Evelyn_1_Heart",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.1",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Mixed Flower Seeds",
+        "Index": "MixedFlowerSeeds",
+        "Stack": 8
+      },
+      {
+        "Type": "Object",
+        "Name": "Mixed Seeds",
+        "Index": "770",
+        "Stack": 8
+      }
+    ],
+    "Conditions": "Hearts Evelyn 1",
+    "Repeatable": false
+  },
+  // Carta de 2 Corações: Bulbos de Tulipa e Sementes de Flor Jazz
+  {
+    "Id": "Evelyn_2_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.2",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Tulip Bulb",
+        "Index": "427",
+        "Stack": 6
+      },
+      {
+        "Type": "Object",
+        "Name": "Jazz Seeds",
+        "Index": "429",
+        "Stack": 6
+      }
+    ],
+    "Conditions": "Hearts Evelyn 2, HasReceivedMail Evelyn_1_Heart",
+    "Repeatable": false
+  },
+  // Carta de 3 Corações: Sementes de Girassol e Sementes de Lantejoula de Verão
+  {
+    "Id": "Evelyn_3_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.3",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Sunflower Seeds",
+        "Index": "431",
+        "Stack": 5
+      },
+      {
+        "Type": "Object",
+        "Name": "Spangle Seeds",
+        "Index": "455",
+        "Stack": 5
+      }
+    ],
+    "Conditions": "Hearts Evelyn 3, HasReceivedMail Evelyn_2_Hearts",
+    "Repeatable": false
+  },
+  // Carta de 4 Corações: Sementes de Papoula e Sementes de Rosa de Fada
+  {
+    "Id": "Evelyn_4_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.4",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Poppy Seeds",
+        "Index": "453",
+        "Stack": 5
+      },
+      {
+        "Type": "Object",
+        "Name": "Fairy Seeds",
+        "Index": "425",
+        "Stack": 4
+      }
+    ],
+    "Conditions": "Hearts Evelyn 4, HasReceivedMail Evelyn_3_Hearts",
+    "Repeatable": false
+  },
+  // Carta de 5 Corações: Semente Rara e Girassóis Secos (Decoração)
+  {
+    "Id": "Evelyn_5_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.5",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Sweet Gem Berry",
+        "Index": "417",
+        "Stack": 1
+      },
+      {
+        "Type": "BigCraftable",
+        "Name": "Dried Sunflowers",
+        "Index": "112",
+        "Stack": 1
+      }
+    ],
+    "Conditions": "Hearts Evelyn 5, HasReceivedMail Evelyn_4_Hearts",
+    "Repeatable": false
+  },
+  // Carta de 6 Corações: Batata Frita Rústica e Cogumelo Frito
+  {
+    "Id": "Evelyn_6_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.6",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Hashbrowns",
+        "Index": "210",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Fried Mushroom",
+        "Index": "205",
+        "Stack": 1
+      }
+    ],
+    "Conditions": "Hearts Evelyn 6, HasReceivedMail Evelyn_5_Hearts",
+    "Repeatable": false
+  },
+  // Carta de 7 Corações: Arroz Doce e Planta Sazonal (Decoração)
+  {
+    "Id": "Evelyn_7_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.7",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Rice Pudding",
+        "Index": "232",
+        "Stack": 1
+      },
+      {
+        "Type": "BigCraftable",
+        "Name": "Seasonal Plant",
+        "Index": "192",
+        "Stack": 1
+      }
+    ],
+    "Conditions": "Hearts Evelyn 7, HasReceivedMail Evelyn_6_Hearts",
+    "Repeatable": false
+  },
+  // Carta de 8 Corações: Recheio Especial e Planta Sazonal (Decoração)
+  {
+    "Id": "Evelyn_8_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.8",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Stuffing",
+        "Index": "239",
+        "Stack": 1
+      },
+      {
+        "Type": "BigCraftable",
+        "Name": "Seasonal Plant",
+        "Index": "204",
+        "Stack": 1
+      }
+    ],
+    "Conditions": "Hearts Evelyn 8, HasReceivedMail Evelyn_7_Hearts",
+    "Repeatable": false
+  },
+  // Carta de 9 Corações: Doce de Oxicoco e Decoração Sazonal
+  {
+    "Id": "Evelyn_9_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.9",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Cranberry Candy",
+        "Index": "612",
+        "Stack": 1
+      },
+      {
+        "Type": "BigCraftable",
+        "Name": "Seasonal Decor",
+        "Index": "48",
+        "Stack": 1
+      }
+    ],
+    "Conditions": "Hearts Evelyn 9, HasReceivedMail Evelyn_8_Hearts",
+    "Repeatable": false
+  },
+  // Carta de 10 Corações: Bolo Rosa e Vaso de Flores (Decoração)
+  {
+    "Id": "Evelyn_10_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.10",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Pink Cake",
+        "Index": "221",
+        "Stack": 1
+      },
+      {
+        "Type": "BigCraftable",
+        "Name": "Tub o' Flowers",
+        "Index": "108",
+        "Stack": 1
+      }
+    ],
+    "Conditions": "Hearts Evelyn 10, HasReceivedMail Evelyn_9_Hearts",
+    "Repeatable": false
+  }
 ]
