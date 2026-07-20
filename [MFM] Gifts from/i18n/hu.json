@@ -1,15 +1,12 @@
-//Hungarian Translation
-//hu.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "evelyn.1": "Kedvesem!^Észrevettem, milyen keményen dolgozol mostanában^a farmon. Szekrénytakarítás közben találtam^ezeket a felesleges vetőmagokat.^^Úgy gondoltam, te sokkal jobban tudod majd,^mihez kezdj velük, mint én.^^Szeretettel,^- Evelyn nagymama",
+  "evelyn.2": "Ismét üdvözöllek!^Mindig olyan boldoggá tesz, amikor látlak^elsétálni a kis házunk előtt. George azt mondja,^nem érdekli, de tudom, hogy örül a látogatásaidnak.^^Félretettem neked ezeket a hagymákat, hogy szebbé^tegyem a napodat. Legyen csodás heted!^^Szeretettel,^- Evelyn nagymama",
+  "evelyn.3": "Kedvesem,^Az ablakomban nyílnak a virágok, és rólad^jutottak eszembe. Olyan csodálatos látni,^hogy a barátságunk ilyen szépen fejlődik.^^Küldök neked néhányat a kedvenc magjaimból.^Viseld jól gondjukat!^^Szeretettel,^- Evelyn nagymama",
+  "evelyn.4": "Üdvözöllek!^Az időjárás változik, a kertre is figyelni kell,^de a jó barátokra mindig van idő.^^Remélem, ezek a magok szép színeket és^édes illatot hoznak a farmodra.^^Meleg öleléssel,^- Evelyn nagymama",
+  "evelyn.5": "Remélem, ez a levél jó egészségben talál.^Tudod, ezt a ritka magot egy különleges^alkalomra tartogattam, de rájöttem, nincs jobb^pillanat, mint most megköszönni a barátságodat.^^Készítettem ezt a szárított napraforgó díszt^is, hogy szépítse az otthonodat.^^Szeretettel,^- Evelyn nagymama",
+  "evelyn.6": "Kedvesem!^A sok nehéz kerti munka mellett tudom, hogy^néha elfelejtesz pihenni és rendesen enni.^^Ezért ma készítettem egy kiadós, meleg ebédet,^amit elvihetsz a hátizsákodban. Ne hajtsd túl^magad, rendben van?^^Meleg öleléssel,^- Evelyn nagymama",
+  "evelyn.7": "Kedvesem,^A délelőttöt a konyhában töltöttem, és a tejberizs^illata rólad emlékeztetett meg.^^Tettem egy keveset egy dobozba neked, és mellé^egy kis növényt, amit nemrég ültettem át.^Nagyon szép lesz a tornácodon!^^Szeretettel,^- Evelyn nagymama",
+  "evelyn.8": "Üdvözöllek!^Ma azt a sütőben sült tölteléket készítettem, amit^George úgy szeret. Mivel mindig túl sokat főzök,^félretettem neked egy szép adagot.^^Küldöm ezt a növényt is a kertemből.^Változik az évszakokkal együtt.^^Meleg öleléssel,^- Evelyn nagymama",
+  "evelyn.9": "Kedvesem,^Készítettem egy adag tőzegáfonya-cukorkát,^és a legszebbeket neked tettem félre.^^Találtam ezt a díszt egy ládában, és úgy^gondoltam, illene a te kis otthonodhoz.^^Köszönöm, hogy vidámságot hozol a falunkba.^^Szeretettel,^- Evelyn nagymama",
+  "evelyn.10": "Nem tudom kifejezni, mennyire jobbá tette a^jelenléted az életünket. George és én^valóban a családunk tagjának tekintünk.^^Megsütöttem a legjobb tortámat, és elkészítettem^ezt a szép virágcserepet. Nálunk mindig^vár rád egy meleg hely és egy mosoly.^^Minden szeretetemmel,^- Evelyn nagymama"
 }

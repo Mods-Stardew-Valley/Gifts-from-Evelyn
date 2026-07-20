@@ -1,15 +1,12 @@
-//Chinese (Simplified) Translation
-//zh.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "evelyn.1": "你好，孩子。^最近看到你在农场里一直忙个不停。^我在清理柜子的时候，发现了这些多余的种子。^^我想，比起留在我这，它们在你的手里^能发挥更大的.^^祝好，^- 艾芙琳奶奶",
+  "evelyn.2": "又见面了！^每次看到你从我们家的小 c前路过，^我心里就特别高兴。乔治嘴上说不在乎，^但我知道他其实很喜欢你来做客。^^我留了这些花球给你，希望能点亮你的一天。^祝你本周过得愉快！^^祝好，^- 艾芙琳奶奶",
+  "evelyn.3": "亲爱的，^我窗台上的花儿开了，这让我想起了你。^看着我们的友谊一天天开花结果，^真的让我感到很欣慰。^^送给你一些我最喜欢的种子。好好照顾它们哦！^^祝好，^- 艾芙琳奶奶",
+  "evelyn.4": "你好！^天气在变，花园也需要多加照料了，^但给好朋友写信的时间总是有的。^^希望这些种子能给你的农场带来^美丽的色彩和迷人的芬芳。^^热情的拥抱，^- 艾芙琳奶奶",
+  "evelyn.5": "希望你近来一切都好。^你知道吗，我本来把这颗稀有的种子留到^特殊场合再用，但我意识到，现在就是^感谢你陪伴的最好时机。^^我还做了一束向日葵干花，用来装饰你的家。^^祝好，^- 艾芙琳奶奶",
+  "evelyn.6": "你好，孩子。^农场里的活计那么重，我知道你^有时候忙起来就会忘了休息和按时吃饭。^^所以我今天做了一份热腾腾的丰盛午餐，^快放进你的背包里。可别太累着自己了，好吗？^^热情的拥抱，^- 艾芙琳奶奶",
+  "evelyn.7": "亲爱的，^我今天早上一直在厨房里忙活，大米布丁的^香味让我想起了你。^^我装了一些给你带上，还有一盆我刚换好盆的^小植物。放在你的门廊上一定会很好看！^^祝好，^- 艾芙琳奶奶",
+  "evelyn.8": "你好！^今天我做了乔治最喜欢的烤填料，一不小心^又做多了，所以我特地给你留了一大份。^^另外还附带了一盆我花园里的植物。^它会随着季节而变化，就像我们的友谊一样。^^热情的拥抱，^- 艾芙琳奶奶",
+  "evelyn.9": "亲爱的，^我刚做了一批蔓越莓糖果，把最完美的^几颗挑出来留给你了。^^我在箱子里找到了这个旧装饰品，觉得^很适合你那温馨的小屋。谢谢你给小镇带来欢笑。^^祝好，^- 艾芙琳奶奶",
+  "evelyn.10": "我无法用言语表达你给我们的生活带来了^多少美好的改变。乔治和我真心把你^当成了我们家庭的一员。^^我烤了我最拿手的蛋糕来庆祝，还准备了^这盆漂亮的花。我们家随时都有一处温暖的地方等着你。^^献上我所有的爱，^- 艾芙琳奶奶"
 }

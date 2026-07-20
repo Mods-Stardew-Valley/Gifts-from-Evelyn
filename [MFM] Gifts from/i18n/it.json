@@ -1,15 +1,12 @@
-//Italian Translation
-//it.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "evelyn.1": "Ciao, tesoro.^Ho notato che hai lavorato sodo alla fattoria^ultimamente. Stavo pulendo i miei armadietti^e ho trovato questi semi d'avanzo.^^Ho pensato che tu sapessi cosa farne^molto meglio di me.^^Con affetto,^- Nonna Evelyn",
+  "evelyn.2": "Ciao di nuovo!^Mi fa così piacere vederti passare davanti alla^nostra casetta. George dice che non gli importa,^ma io so che apprezza le tue visite.^^Ho messo da parte questi bulbi per rallegrare^la tua giornata. Buona settimana!^^Con affetto,^- Nonna Evelyn",
+  "evelyn.3": "Tesoro,^I fiori sul mio davanzale stanno sbocciando e^mi hanno fatto pensare a te. È meraviglioso^vedere la nostra amicizia crescere così.^^Ti mando alcuni dei miei semi preferiti.^Abbiatene cura!^^Con affetto,^- Nonna Evelyn",
+  "evelyn.4": "Ciao!^Il tempo sta cambiando e il giardino ha bisogno^di cure, ma c'è sempre tempo per pensare^ai cari amici.^^Spero che questi semi portino bei colori^e un dolce profumo alla tua fattoria.^^Un grande abbraccio,^- Nonna Evelyn",
+  "evelyn.5": "Spero che questa lettera ti trovi in salute.^Sai, custodi questo seme raro per un'occasione^speciale, ma ho capito che non c'è momento migliore^di adesso per ringraziarti della tua amicizia.^^Ho fatto anche questa composizione di girasoli^secchi per decorare la tua casa.^^Con affetto,^- Nonna Evelyn",
+  "evelyn.6": "Ciao, tesoro.^Con tutto il duro lavoro nei campi, so che^a volte dimentichi di riposare e mangiare bene.^^Per questo oggi ti ho preparato un pranzo caldo^e abbondante da mettere nello zaino.^Non sforzarti troppo, d'accordo?^^Un grande abbraccio,^- Nonna Evelyn",
+  "evelyn.7": "Tesoro,^Ho passato la mattina in cucina e il profumo del^budino di riso mi ha fatto pensare a te.^^Te ne ho messo un po' in un contenitore,^insieme a una piantina che ho travasato ieri.^Starà benissimo sulla tua veranda!^^Con affetto,^- Nonna Evelyn",
+  "evelyn.8": "Ciao!^Oggi ho fatto il ripieno al forno che George^ama tanto e, siccome ne faccio sempre troppo,^ho tenuto da parte una bella porzione per te.^^Ti mando anche questa piantina del mio^giardino. Cambia insieme alle stagioni.^^Un grande abbraccio,^- Nonna Evelyn",
+  "evelyn.9": "Tesoro,^Ho preparato una vagonata dei miei dolcetti^al mirtillo rosso e ho tenuto i migliori per te.^^Ho trovato questa decorazione in un baule^e ho pensato che starebbe bene nella tua casa^così accogliente. Grazie per la tua gioia in paese.^^Con affetto,^- Nonna Evelyn",
+  "evelyn.10": "Non so esprimere quanto la tua presenza abbia^migliorato le nostre vite. George e io^ti consideriamo parte della nostra famiglia.^^Ho preparato la mia torta migliore per festeggiare^e questo bel vaso di fiori. Troverai sempre^un posto caldo ad aspettarti a casa nostra.^^Con tutto il mio amore,^- Nonna Evelyn"
 }

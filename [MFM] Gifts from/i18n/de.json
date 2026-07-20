@@ -1,15 +1,12 @@
-//German Translation
-//de.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "evelyn.1": "Hallo, mein Kind.^Ich habe bemerkt, wie hart du in letzter Zeit^auf der Farm arbeitest. Als ich meine Schränke^aufräumte, fand ich diese übrigen Saaten.^^Ich dachte mir, dass du sicher viel besser^als ich weißt, was man damit anfängt.^^Alles Liebe,^- Oma Evelyn",
+  "evelyn.2": "Hallo schon wieder!^Es macht mich so glücklich, wenn ich dich an^unserem kleinen Haus vorbeigehen sehe. George sagt^zwar, es sei ihm egal, aber er mag deine Besuche.^^Ich habe diese Zwiebeln für dich aufgehoben,^um deinen Tag zu verschönern. Eine schöne Woche!^^Alles Liebe,^- Oma Evelyn",
+  "evelyn.3": "Mein Kind,^Die Blumen auf meiner Fensterbank blühen und^haben mich an dich erinnert. Es ist wunderbar^zu sehen, wie unsere Freundschaft wächst.^^Ich schicke dir einige meiner Lieblingssaaten.^Kümmere dich gut um sie!^^Alles Liebe,^- Oma Evelyn",
+  "evelyn.4": "Hallo!^Das Wetter ändert sich und der Garten braucht^Aufmerksamkeit, aber für gute Freunde ist immer^Zeit.^^Ich hoffe, diese Saaten bringen schöne Farben^und einen süßen Duft auf deine Farm.^^Fühl dich gedrückt,^- Oma Evelyn",
+  "evelyn.5": "Ich hoffe, es geht dir gut.^Weißt du, ich habe diese seltene Saat für^einen besonderen Anlass aufgehoben. Aber es gibt^keinen besseren Moment, um dir für deine Freundschaft zu danken.^^Ich habe auch dieses Gesteck aus getrockneten^Sonnenblumen für dein Haus gemacht.^^Alles Liebe,^- Oma Evelyn",
+  "evelyn.6": "Hallo, mein Kind.^Bei all der schweren Arbeit auf der Farm vergisst^du manchmal, dich auszuruhen und richtig zu essen.^^Deshalb habe ich dir heute ein herzhaftes,^warmes Mittagessen für deinen Rucksack gemacht.^Übernimm dich bitte nicht, ja?^^Fühl dich gedrückt,^- Oma Evelyn",
+  "evelyn.7": "Mein Kind,^Ich habe den Morgen in der Küche verbracht und der^Duft von Milchreis hat mich an dich erinnert.^^Ich habe dir etwas eingepackt, zusammen mit^einer kleinen Pflanze, die ich frisch umgetopft habe.^Sie wird auf deiner Veranda herrlich aussehen!^^Alles Liebe,^- Oma Evelyn",
+  "evelyn.8": "Hallo!^Heute habe wir die Ofenfüllung gemacht, die George^so liebt. Da ich immer zu viel koche,^habe ich eine große Portion für dich aufgehoben.^^Ich schicke dir auch diese Pflanze aus meinem^Garten. Sie verändert sich mit den Jahreszeiten.^^Fühl dich gedrückt,^- Oma Evelyn",
+  "evelyn.9": "Mein Kind,^Ich habe eine frische Ladung meiner Preiselbeer-^Bonbons gemacht und die besten für dich aufgehoben.^^Ich habe diese Dekoration in einer Truhe gefunden^und dachte, sie passt gut in dein gemütliches Haus.^Danke, dass du so viel Freude ins Dorf bringst.^^Alles Liebe,^- Oma Evelyn",
+  "evelyn.10": "Ich kann gar nicht sagen, wie sehr deine Gegenwart^unser Leben bereichert hat. George und ich^betrachten dich als Teil unserer Familie.^^Ich habe meinen besten Kuchen für uns gebacken^und diesen Blumentopf vorbereitet. Bei uns wird^immer ein warmes Plätzchen auf dich warten.^^In tiefer Liebe,^- Oma Evelyn"
 }

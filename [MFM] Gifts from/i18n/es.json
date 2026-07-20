@@ -1,15 +1,12 @@
-//Spanish Translation
-//es.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "evelyn.1": "Hola, cielo.^He notado que has estado trabajando duro en la^granja últimamente. Estaba limpiando mis armarios^y encontré estas semillas de sobra.^^Pensé que tú sabrías qué hacer con ellas^mejor que yo.^^Con cariño,^- Abuelita Evelyn",
+  "evelyn.2": "¡Hola de nuevo!^Me alegra mucho verte pasar por nuestra casita.^George dice que no le importa, pero yo sé^que le gustan mucho tus visitas.^^He reservado estos bulbos para alegrarte^el día. ¡Que tengas una buena semana!^^Con cariño,^- Abuelita Evelyn",
+  "evelyn.3": "Cielo,^Las flores de mi ventana están abriendo y me^hicieron acordar de ti. Es maravilloso ver^cómo crece nuestra amistad.^^Te envío algunas de mi sementes favoritas.^¡Cuídalas bien!^^Con cariño,^- Abuelita Evelyn",
+  "evelyn.4": "¡Hola!^El clima está cambiando y el jardín necesita^atención, pero siempre hay tiempo para pensar^en los buenos amigos.^^Espero que estas semillas traigan hermosos colores^y un dulce aroma a tu granja.^^Un fuerte abrazo,^- Abuelita Evelyn",
+  "evelyn.5": "Espero que esta carta te encuentre bien.^¿Sabes? Guardaba esta semilla rara para una^ocasión especial, y me di cuenta de que no hay^mejor momento que este para agradecer tu amistad.^^También hice este arreglo de girasoles secos^para adornar tu casa.^^Con cariño,^- Abuelita Evelyn",
+  "evelyn.6": "Hola, cielo.^Con el trabajo pesado de la granja, sé que^a veces te olvidas de descansar y comer bien.^^Por eso, te preparé un almuerzo casero^y calientito para que lo lleves en la mochila.^No te esfuerces demasiado, ¿de acuerdo?^^Un fuerte abrazo,^- Abuelita Evelyn",
+  "evelyn.7": "Cielo,^Pasé la mañana en la cocina y el olor del^arroz con leche me hizo pensar en ti.^^Te puse un poco en un recipiente para llevar,^junto con una plantita que cambié de maceta.^¡Quedará hermosa en tu porche!^^Con cariño,^- Abuelita Evelyn",
+  "evelyn.8": "¡Hola!^Hoy hice el relleno al horno que tanto le gusta^a George, y como siempre termino cocinando de más,^te separé una buena porción.^^También te envío esta plantita de mi^jardín. Cambia según las estaciones.^^Un fuerte abrazo,^- Abuelita Evelyn",
+  "evelyn.9": "Cielo,^Hice una tanda de mis dulces de arándanos y^separé los mejores para ti.^^Encontré esta decoración guardada en el baúl^y pensé que combinaría con lo acogedora que^es tu casa. Gracias por tu alegría en el pueblo.^^Con cariño,^- Abuelita Evelyn",
+  "evelyn.10": "No puedo expresar cuánto ha mejorado nuestra^vida desde que llegaste. George y yo te^consideramos parte de nuestra familia.^^Horneé mi mejor pastel para celebrar, y^preparé esta hermosa maceta. Siempre tendrás^un lugar cálido esperándote en nuestra casa.^^Con todo mi amor,^- Abuelita Evelyn"
 }

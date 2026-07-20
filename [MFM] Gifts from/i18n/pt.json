@@ -1,15 +1,21 @@
-//Portuguese Translation
-//pt.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "evelyn.1": "Olá, querido(a).^Notei que você tem trabalhado duro na fazenda^ultimamente. Estava limpando meus armários e^encontrei estas sementes sobressalentes.^^Achei que você saberia o que fazer com elas^melhor do que eu.^^Com carinho,^- Vovó Evelyn",
+  
+  "evelyn.2": "Olá de novo!^Fico muito feliz sempre que vejo você passando^pela nossa casinha. O George diz que não se^importa, mas eu sei que ele gosta das suas visitas.^^Separei estes bulbos para ajudar a colorir^o seu dia. Tenha uma boa semana!^^Com carinho,^- Vovó Evelyn",
+  
+  "evelyn.3": "Querido(a),^As flores da minha janela estão abrindo e me^fizeram lembrar de você. É maravilhoso ver^como a nossa amizade está crescendo.^^Estou lhe enviando algumas das minhas sementes^favoritas. Cuide bem delas!^^Com carinho,^- Vovó Evelyn",
+  
+  "evelyn.4": "Olá!^O clima está mudando e o jardim precisa de^atenção, mas sempre há tempo para pensar nos^bons amigos.^^Espero que estas sementes tragam belas cores^e um perfume agradável para a sua fazenda.^^Um grande abraço,^- Vovó Evelyn",
+  
+  "evelyn.5": "Espero que esta carta te encontre bem.^Sabe, eu guardava esta semente rara para uma^ocasião especial, e percebi que não há momento^melhor do que este para agradecer sua amizade.^^Também fiz este arranjo de girassóis secos^para enfeitar a sua casa.^^Com carinho,^- Vovó Evelyn",
+  
+  "evelyn.6": "Olá, querido(a).^Com o trabalho pesado da fazenda, sei que às^vezes você esquece de descansar e comer direito.^^Por isso, preparei um lanche reforçado e^quentinho para você levar na mochila hoje.^Não faça muito esforço, combinado?^^Um grande abraço,^- Vovó Evelyn",
+  
+  "evelyn.7": "Querido(a),^Passei a manhã na cozinha e o cheirinho do^arroz doce me fez lembrar de você.^^Coloquei um pouco em um pote para viagem,^junto com uma plantinha que mudei de vaso.^Ela vai ficar linda na sua varanda!^^Com carinho,^- Vovó Evelyn",
+  
+  "evelyn.8": "Olá!^Hoje fiz o recheio de forno que o George tanto^gosta, e como sempre acabo fazendo comida demais,^separei uma boa porção para você.^^Também estou enviando esta plantinha do meu^jardim. Ela muda conforme as estações.^^Um grande abraço,^- Vovó Evelyn",
+  
+  "evelyn.9": "Querido(a),^Fiz uma fornada dos meus doces de oxicoco e^separei os melhores para você.^^Encontrei esta decoração guardada no baú e^achei que combinaria com o aconchego da sua^casa. Obrigado por sua alegria na vila.^^Com carinho,^- Vovó Evelyn",
+  
+  "evelyn.10": "Não consigo expressar o quanto sua presença^mudou as nossas vidas para melhor. O George e^eu te consideramos parte da nossa família.^^Fiz o meu melhor bolo para comemorar, e^preparei este lindo vaso de flores. Você sempre^terá um lugar quentinho nos esperando.^^Com todo o meu amor,^- Vovó Evelyn"
 }
