@@ -1,15 +1,12 @@
-//English Translation
-//default.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "evelyn.1": "Hello, dear.^I noticed you've been working very hard on^the farm lately. I was cleaning out my cabinets^and found these spare seeds.^^I thought you'd know what to do with them^better than I would.^^Best wishes,^- Granny Evelyn",
+  "evelyn.2": "Hello again!^It makes me so happy whenever I see you walking^by our little house. George says he doesn't^mind, but I know he enjoys your visits.^^I set aside these bulbs to help brighten^your day. Have a wonderful week!^^Best wishes,^- Granny Evelyn",
+  "evelyn.3": "Dear,^The flowers on my windowsill are blooming and^they made me think of you. It's wonderful^to see our friendship growing so beautifully.^^I'm sending you some of my favorite seeds.^Take good care of them!^^Best wishes,^- Granny Evelyn",
+  "evelyn.4": "Hello!^The weather is changing and the garden needs^attention, but there's always time to think^of good friends.^^I hope these seeds bring lovely colors and^a sweet scent to your farm.^^Warm hugs,^- Granny Evelyn",
+  "evelyn.5": "I hope this letter finds you well.^You know, I was saving this rare seed for^a special occasion, and I realized there's no^better time than now to thank you for your friendship.^^I also made this dried sunflower arrangement^to decorate your home.^^Best wishes,^- Granny Evelyn",
+  "evelyn.6": "Hello, dear.^With all the heavy work on the farm, I know^you sometimes forget to rest and eat properly.^^So, I put together a hearty, warm lunch^for you to take in your backpack today.^Don't push yourself too hard, okay?^^Warm hugs,^- Granny Evelyn",
+  "evelyn.7": "Dear,^I spent the morning in the kitchen and the^smell of rice pudding made me think of you.^^I put some in a container for you to go,^along with a little plant I recently repotted.^It will look lovely on your porch!^^Best wishes,^- Granny Evelyn",
+  "evelyn.8": "Hello!^Today I made the stuffing that George loves so^much, and since I always end up making too much^food, I saved a nice portion for you.^^I'm also sending this plant from my^garden. It changes with the seasons.^^Warm hugs,^- Granny Evelyn",
+  "evelyn.9": "Dear,^I made a batch of my cranberry candies and^saved the very best ones for you.^^I found this decoration tucked away in a chest^and thought it would match your cozy home.^Thank you for bringing joy to our town.^^Best wishes,^- Granny Evelyn",
+  "evelyn.10": "I cannot express how much your presence^has changed our lives for the better. George and^I truly consider you part of our family.^^I baked my best cake to celebrate, and^prepared this lovely flower pot. You will always^have a warm place waiting for you here.^^With all my love,^- Granny Evelyn"
 }

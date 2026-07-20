@@ -1,15 +1,12 @@
-//Turkish Translation
-//tr.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "evelyn.1": "Merhaba tatlım,^Son zamanlarda çiftlikte çok sıkı çalıştığını^fark ettim. Dolaplarımı temizlerken bu fazladan^tohumları buldum.^^Onlarla ne yapacağını benden çok daha iyi^bileceğini düşündüm.^^Sevgilerimle,^- Evelyn Büyükanne",
+  "evelyn.2": "Yeniden merhaba!^Küçük evimizin önünden geçtiğini her gördüğümde^içim neşeyle doluyor. George umursamıyormuş^gibi yapıyor ama ziyaretlerinden keyif alıyor.^^Gününü neşelendirmek için bu soğanları ayırdım.^Harika bir hafta geçirmen dileğiyle!^^Sevgilerimle,^- Evelyn Büyükanne",
+  "evelyn.3": "Canım,^Penceremdeki çiçekler açıyor ve bana seni^hatırlattı. Dostluğumuzun böyle güzel^büyüdüğünü görmek çok harika.^^Sana en sevdiğim tohumlardan bazılarını^gönderiyorum. Onlara iyi bak!^^Sevgilerimle,^- Evelyn Büyükanne",
+  "evelyn.4": "Merhaba!^Hava değişiyor ve bahçeyle ilgilenmek gerekiyor^ama iyi dostları düşünmek için her zaman vakit^vardır.^^Umarım bu tohumlar çiftliğine güzel renkler^ve tatlı bir koku getirir.^^Sıcacık kucaklamalarla,^- Evelyn Büyükanne",
+  "evelyn.5": "Umarım bu mektup seni iyi bulur.^Biliyor musun, bu nadir tohumu özel bir gün^için saklıyordum ama dostluğun için teşekkür^etmekten daha iyi bir an olamayacağını fark ettim.^^Evini süslemen için bu kurutulmuş ayçiçeği^aranjmanını da yaptım.^^Sevgilerimle,^- Evelyn Büyükanne",
+  "evelyn.6": "Merhaba tatlım,^Çiftlikteki tüm o ağır işler arasında bazen^dinlenmeyi ve düzgün yemeyi unuttuğunu biliyorum.^^Bu yüzden bugün sırt çantana koyman için^sıcak, doyurucu bir öğle yemeği hazırladım.^Kendini çok fazla yorma, tamam mı?^^Sıcacık kucaklamalarla,^- Evelyn Büyükanne",
+  "evelyn.7": "Canım,^Sabahı mutfakta geçirdim ve sütlaç kokusu^bana seni hatırlattı.^^Yanına alman için bir kaba biraz koydum, bir de^yakın zamanda saksısını değiştirdiğim küçük bitki.^Verandanda çok güzel duracaktır!^^Sevgilerimle,^- Evelyn Büyükanne",
+  "evelyn.8": "Merhaba!^Bugün George'un çok sevdiği fırın harcını yaptım.^Her zamanki gibi yemeği fazla kaçırdığım için^sana güzel bir porsiyon ayırdım.^^Bahçemden bu bitkiyi de gönderiyorum.^Mevsimlerle birlikte değişir.^^Sıcacık kucaklamalarla,^- Evelyn Büyükanne",
+  "evelyn.9": "Canım,^Turna yemişi şekerlerimden bir ölçek yaptım ve^en iyilerini senin için ayırdım.^^Sandıkta saklı bu dekorasyonu buldum ve senin^o sıcacık evine çok yakışacağını düşündüm.^Kasabamıza neşe getirdiğin için teşekkürler.^^Sevgilerimle,^- Evelyn Büyükanne",
+  "evelyn.10": "Varlığının hayatımızı ne kadar güzelleştirdiğini^kelimelerle anlatamam. George ve ben^seni gerçekten ailemizin bir parçası sayıyoruz.^^Kutlamak için en iyi kekimi pişirdim ve bu^güzel saksıyı hazırladım. Evimizde senin için^her zaman sıcak bir yer olacak.^^Tüm sevgimle,^- Evelyn Büyükanne"
 }
