@@ -26,6 +26,8 @@ Correct files upload
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Evelyn
 
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Evelyn
+
 
 ### ♻️ Refatoração
 
@@ -40,9 +42,13 @@ Correct files upload
 
 - Item corrected in the 5-heart letter
 
+- Repeatable flags from Evelyn mail
+
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
