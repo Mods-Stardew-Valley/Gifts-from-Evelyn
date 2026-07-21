@@ -28,6 +28,8 @@ Correct files upload
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Evelyn
 
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Evelyn
+
 
 ### ♻️ Refatoração
 
@@ -44,9 +46,13 @@ Correct files upload
 
 - Repeatable flags from Evelyn mail
 
+- FriendshipConditions in mail.json
+
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
