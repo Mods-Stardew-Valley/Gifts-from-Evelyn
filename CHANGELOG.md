@@ -48,6 +48,8 @@ Remove local GitAutomation PowerShell scripts and replace with GitHub Actions wo
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Evelyn
 
+- v1.1.0
+
 
 ### ♻️ Refatoração
 
@@ -77,6 +79,8 @@ Remove local GitAutomation PowerShell scripts and replace with GitHub Actions wo
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
