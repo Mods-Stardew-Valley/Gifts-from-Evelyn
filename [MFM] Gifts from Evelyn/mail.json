@@ -52,8 +52,8 @@
       { "Type": "Object", "Name": "Rare Seed", "Index": "347", "Stack": 1 },
       { "Type": "BigCraftable", "Name": "Dried Sunflowers", "Index": "112", "Stack": 1 }
     ],
-    "Conditions": "Hearts Evelyn 5, HasReceivedMail Evelyn_4_Hearts",
-    "Repeatable": false
+    "Conditions": "Hearts Evelyn 5, HasReceivedMail Evelyn_4_Hearts"
+
   },
   
   {
@@ -64,8 +64,8 @@
       { "Type": "Object", "Name": "Hashbrowns", "Index": "210", "Stack": 1 },
       { "Type": "Object", "Name": "Fried Mushroom", "Index": "205", "Stack": 1 }
     ],
-    "Conditions": "Hearts Evelyn 6, HasReceivedMail Evelyn_5_Hearts",
-    "Repeatable": false
+    "Conditions": "Hearts Evelyn 6, HasReceivedMail Evelyn_5_Hearts"
+
   },
   
   {
@@ -76,8 +76,8 @@
       { "Type": "Object", "Name": "Rice Pudding", "Index": "232", "Stack": 1 },
       { "Type": "BigCraftable", "Name": "Seasonal Plant", "Index": "192", "Stack": 1 }
     ],
-    "Conditions": "Hearts Evelyn 7, HasReceivedMail Evelyn_6_Hearts",
-    "Repeatable": false
+    "Conditions": "Hearts Evelyn 7, HasReceivedMail Evelyn_6_Hearts"
+
   },
   
   {
@@ -88,8 +88,8 @@
       { "Type": "Object", "Name": "Stuffing", "Index": "239", "Stack": 1 },
       { "Type": "BigCraftable", "Name": "Seasonal Plant", "Index": "204", "Stack": 1 }
     ],
-    "Conditions": "Hearts Evelyn 8, HasReceivedMail Evelyn_7_Hearts",
-    "Repeatable": false
+    "Conditions": "Hearts Evelyn 8, HasReceivedMail Evelyn_7_Hearts"
+
   },
   
   {
@@ -100,8 +100,8 @@
       { "Type": "Object", "Name": "Cranberry Candy", "Index": "612", "Stack": 1 },
       { "Type": "BigCraftable", "Name": "Seasonal Decor", "Index": "48", "Stack": 1 }
     ],
-    "Conditions": "Hearts Evelyn 9, HasReceivedMail Evelyn_8_Hearts",
-    "Repeatable": false
+    "Conditions": "Hearts Evelyn 9, HasReceivedMail Evelyn_8_Hearts"
+
   },
   
   {
@@ -112,7 +112,7 @@
       { "Type": "Object", "Name": "Pink Cake", "Index": "221", "Stack": 1 },
       { "Type": "BigCraftable", "Name": "Tub o' Flowers", "Index": "108", "Stack": 1 }
     ],
-    "Conditions": "Hearts Evelyn 10, HasReceivedMail Evelyn_9_Hearts",
-    "Repeatable": false
+    "Conditions": "Hearts Evelyn 10, HasReceivedMail Evelyn_9_Hearts"
+
   }
 ]
