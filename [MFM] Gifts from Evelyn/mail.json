@@ -1,93 +1,49 @@
 [
-  // Carta de 1 Coração: Sementes de Flores Mistas e Sementes Mistas
   {
     "Id": "Evelyn_1_Heart",
     "GroupId": "EvelynGifts",
     "Text": "evelyn.1",
     "Attachments": [
-      {
-        "Type": "Object",
-        "Name": "Mixed Flower Seeds",
-        "Index": "MixedFlowerSeeds",
-        "Stack": 8
-      },
-      {
-        "Type": "Object",
-        "Name": "Mixed Seeds",
-        "Index": "770",
-        "Stack": 8
-      }
+      { "Type": "Object", "Name": "Mixed Flower Seeds", "Index": "MixedFlowerSeeds", "Stack": 8 },
+      { "Type": "Object", "Name": "Mixed Seeds", "Index": "770", "Stack": 8 }
     ],
-    "Conditions": "Hearts Evelyn 1",
-    "Repeatable": false
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 1 } ]
   },
-  // Carta de 2 Corações: Bulbos de Tulipa e Sementes de Flor Jazz
+  
   {
     "Id": "Evelyn_2_Hearts",
     "GroupId": "EvelynGifts",
     "Text": "evelyn.2",
     "Attachments": [
-      {
-        "Type": "Object",
-        "Name": "Tulip Bulb",
-        "Index": "427",
-        "Stack": 6
-      },
-      {
-        "Type": "Object",
-        "Name": "Jazz Seeds",
-        "Index": "429",
-        "Stack": 6
-      }
+      { "Type": "Object", "Name": "Tulip Bulb", "Index": "427", "Stack": 6 },
+      { "Type": "Object", "Name": "Jazz Seeds", "Index": "429", "Stack": 6 }
     ],
-    "Conditions": "Hearts Evelyn 2, HasReceivedMail Evelyn_1_Heart",
-    "Repeatable": false
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 2 } ]
   },
-  // Carta de 3 Corações: Sementes de Girassol e Sementes de Lantejoula de Verão
+  
   {
     "Id": "Evelyn_3_Hearts",
     "GroupId": "EvelynGifts",
     "Text": "evelyn.3",
     "Attachments": [
-      {
-        "Type": "Object",
-        "Name": "Sunflower Seeds",
-        "Index": "431",
-        "Stack": 5
-      },
-      {
-        "Type": "Object",
-        "Name": "Spangle Seeds",
-        "Index": "455",
-        "Stack": 5
-      }
+      { "Type": "Object", "Name": "Sunflower Seeds", "Index": "431", "Stack": 5 },
+      { "Type": "Object", "Name": "Spangle Seeds", "Index": "455", "Stack": 5 }
     ],
-    "Conditions": "Hearts Evelyn 3, HasReceivedMail Evelyn_2_Hearts",
-    "Repeatable": false
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 3 } ]
   },
-  // Carta de 4 Corações: Sementes de Papoula e Sementes de Rosa de Fada
+  
   {
     "Id": "Evelyn_4_Hearts",
     "GroupId": "EvelynGifts",
     "Text": "evelyn.4",
     "Attachments": [
-      {
-        "Type": "Object",
-        "Name": "Poppy Seeds",
-        "Index": "453",
-        "Stack": 5
-      },
-      {
-        "Type": "Object",
-        "Name": "Fairy Seeds",
-        "Index": "425",
-        "Stack": 4
+      { "Type": "Object", "Name": "Poppy Seeds", "Index": "453", "Stack": 5 },
+      { "Type": "Object", "Name": "Fairy Seeds", "Index": "425", "Stack": 4
       }
     ],
-    "Conditions": "Hearts Evelyn 4, HasReceivedMail Evelyn_3_Hearts",
-    "Repeatable": false
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 4 } ]
   },
-  // Carta de 5 Corações: Semente Rara e Girassóis Secos (Decoração)
+  
   {
     "Id": "Evelyn_5_Hearts",
     "GroupId": "EvelynGifts",
@@ -95,8 +51,8 @@
     "Attachments": [
       {
         "Type": "Object",
-        "Name": "Sweet Gem Berry",
-        "Index": "417",
+        "Name": "Rare Seed",
+        "Index": "347",
         "Stack": 1
       },
       {
