@@ -1,5 +1,22 @@
 [
-  {
+     {	
+    "Id":"ResetEvelyn",
+	"AutoOpen": true,
+    "MailReceivedToRemove": [
+		"Evelyn_1_Heart",
+		"Evelyn_2_Heart",
+		"Evelyn_3_Heart",
+		"Evelyn_4_Heart",
+		"Evelyn_5_Heart",
+		"Evelyn_6_Heart",
+		"Evelyn_7_Heart",
+		"Evelyn_8_Heart",
+		"Evelyn_9_Heart",
+		"Evelyn_10_Heart"
+	  ]
+    },
+ 
+    {
     "Id": "Evelyn_1_Heart",
     "GroupId": "EvelynGifts",
     "Text": "evelyn.1",
