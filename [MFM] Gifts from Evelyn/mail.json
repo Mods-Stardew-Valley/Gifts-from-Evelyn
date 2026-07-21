@@ -1,18 +1,18 @@
 [
      {	
     "Id":"ResetEvelyn",
-	"AutoOpen": true,
+	  "AutoOpen": true,
     "MailReceivedToRemove": [
-		"Evelyn_1_Heart",
-		"Evelyn_2_Heart",
-		"Evelyn_3_Heart",
-		"Evelyn_4_Heart",
-		"Evelyn_5_Heart",
-		"Evelyn_6_Heart",
-		"Evelyn_7_Heart",
-		"Evelyn_8_Heart",
-		"Evelyn_9_Heart",
-		"Evelyn_10_Heart"
+		  "Evelyn_1_Heart",
+		  "Evelyn_2_Heart",
+		  "Evelyn_3_Heart",
+		  "Evelyn_4_Heart",
+		  "Evelyn_5_Heart",
+		  "Evelyn_6_Heart",
+		  "Evelyn_7_Heart",
+		  "Evelyn_8_Heart",
+		  "Evelyn_9_Heart",
+		  "Evelyn_10_Heart"
 	  ]
     },
  
@@ -128,5 +128,44 @@
       { "Type": "BigCraftable", "Name": "Tub o' Flowers", "Index": "108", "Stack": 1 }
     ],
     "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 10 } ]
-  }
+  },
+
+  {
+	"Id": "EvelynRepeteable",
+    "GroupId": "EvelynGifts",
+    "Text": "EvelynRepeteable",
+	"Repeatable": true,
+	"RandomChance": 0.075,
+	"FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 1 } ],
+	"RandomlyChooseAttachment": 1,
+	"Attachments": [
+		{ "Type": "Object", "Name": "Mixed Flower Seeds", "Index": "MixedFlowerSeeds", "Stack": 3, "RandomGroup": "Garden" },
+    { "Type": "Object", "Name": "Mixed Flower Seeds", "Index": "MixedFlowerSeeds", "Stack": 5, "RandomGroup": "Garden" },
+    { "Type": "Object", "Name": "Mixed Flower Seeds", "Index": "MixedFlowerSeeds", "Stack": 8, "RandomGroup": "Garden" },
+
+		{ "Type": "Object", "Index": "427", "Stack": 2, "RandomGroup": "Garden" }, //Tulip Bulb
+    { "Type": "Object", "Index": "427", "Stack": 3, "RandomGroup": "Garden" }, //Tulip Bulb
+    { "Type": "Object", "Index": "427", "Stack": 4, "RandomGroup": "Garden" }, //Tulip Bulb
+
+		{ "Type": "Object", "Index": "429", "Stack": 2, "RandomGroup": "Garden" }, //Jazz Seeds
+    { "Type": "Object", "Index": "429", "Stack": 3, "RandomGroup": "Garden" }, //Jazz Seeds
+    { "Type": "Object", "Index": "429", "Stack": 4, "RandomGroup": "Garden" }, //Jazz Seeds
+		
+    { "Type": "Object", "Index": "431", "Stack": 3, "RandomGroup": "Garden" }, //Sunflower Seeds
+    { "Type": "Object", "Index": "431", "Stack": 4, "RandomGroup": "Garden" }, //Sunflower Seeds
+    { "Type": "Object", "Index": "431", "Stack": 5, "RandomGroup": "Garden" }, //Sunflower Seeds
+
+		{ "Type": "Object", "Index": "455", "Stack": 2, "RandomGroup": "Garden" }, //Spangle Seeds
+    { "Type": "Object", "Index": "455", "Stack": 3, "RandomGroup": "Garden" }, //Spangle Seeds
+    { "Type": "Object", "Index": "455", "Stack": 4, "RandomGroup": "Garden" }, //Spangle Seeds
+
+		{ "Type": "Object", "Index": "453", "Stack": 2, "RandomGroup": "Garden" }, //Poppy Seeds
+    { "Type": "Object", "Index": "453", "Stack": 3, "RandomGroup": "Garden" }, //Poppy Seeds
+    { "Type": "Object", "Index": "453", "Stack": 4, "RandomGroup": "Garden" }, //Poppy Seeds
+		
+    { "Type": "Object", "Index": "425", "Stack": 1, "RandomGroup": "Garden" }, //Fairy Seeds
+    { "Type": "Object", "Index": "425", "Stack": 2, "RandomGroup": "Garden" }, //Fairy Seeds
+    { "Type": "Object", "Index": "425", "Stack": 3, "RandomGroup": "Garden" } //Fairy Seeds
+    ]
+}
 ]
