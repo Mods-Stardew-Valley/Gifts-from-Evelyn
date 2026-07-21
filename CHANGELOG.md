@@ -50,6 +50,14 @@ Remove local GitAutomation PowerShell scripts and replace with GitHub Actions wo
 
 - v1.1.0
 
+- Add 'Evelyn Repeteable' key to default.json
+
+Added a new key 'Evelyn Repeteable' with placeholder text and retained existing messages from Granny Evelyn.
+
+- Refactor Evelyn's message JSON structure
+
+Updated the JSON structure for Evelyn's messages, correcting the key format and ensuring consistency.
+
 
 ### ♻️ Refatoração
 
@@ -79,6 +87,8 @@ Remove local GitAutomation PowerShell scripts and replace with GitHub Actions wo
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
