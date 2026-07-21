@@ -31,3 +31,15 @@ Correct files upload
 - Rename 'Gifts from' folder to 'Gifts from Evelyn'
 
 
+### 🐛 Correções
+
+
+- Item corrected in the 5-heart letter
+
+
+### 📚 Documentação
+
+
+- atualiza CHANGELOG.md [skip ci]
+
+
