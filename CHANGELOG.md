@@ -30,6 +30,8 @@ Correct files upload
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Evelyn
 
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Evelyn
+
 
 ### ♻️ Refatoração
 
@@ -37,6 +39,12 @@ Correct files upload
 - Move changelog workflow to .github/workflows
 
 - Rename 'Gifts from' folder to 'Gifts from Evelyn'
+
+
+### ✨ Novidades
+
+
+- Add ResetEvelyn mail entry
 
 
 ### 🐛 Correções
@@ -51,6 +59,8 @@ Correct files upload
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
