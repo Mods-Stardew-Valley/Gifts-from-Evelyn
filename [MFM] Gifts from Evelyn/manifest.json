@@ -1,13 +1,13 @@
 {
-  "Name": "Gifts from Evelyn – Garden of Memories",
+  "Name": "Gifts from Evelyn",
   "Author": "LoganDoidao",
-  "Version": "1.1.0",
-  "Description": "Receive heartfelt letters and thoughtful gifts from Evelyn as your friendship grows.",
+  "Version": "1.1.1",
+  "Description": "Receive heartfelt letters and thoughtful gifts from your friend Evelyn.",
   "UniqueID": "LoganDoidao.GiftsFromEvelyn",
   "MinimumApiVersion": "3.18.0",
   "UpdateKeys": [ "Nexus:46263" ],
   "ContentPackFor": {
     "UniqueID": "DIGUS.MailFrameworkMod",
-    "MinimumVersion": "1.18.0"
+    "MinimumVersion": "1.20.0"
   }
 }
