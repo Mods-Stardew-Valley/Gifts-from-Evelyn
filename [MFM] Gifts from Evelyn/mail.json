@@ -49,128 +49,68 @@
     "GroupId": "EvelynGifts",
     "Text": "evelyn.5",
     "Attachments": [
-      {
-        "Type": "Object",
-        "Name": "Rare Seed",
-        "Index": "347",
-        "Stack": 1
-      },
-      {
-        "Type": "BigCraftable",
-        "Name": "Dried Sunflowers",
-        "Index": "112",
-        "Stack": 1
-      }
+      { "Type": "Object", "Name": "Rare Seed", "Index": "347", "Stack": 1 },
+      { "Type": "BigCraftable", "Name": "Dried Sunflowers", "Index": "112", "Stack": 1 }
     ],
     "Conditions": "Hearts Evelyn 5, HasReceivedMail Evelyn_4_Hearts",
     "Repeatable": false
   },
-  // Carta de 6 Corações: Batata Frita Rústica e Cogumelo Frito
+  
   {
     "Id": "Evelyn_6_Hearts",
     "GroupId": "EvelynGifts",
     "Text": "evelyn.6",
     "Attachments": [
-      {
-        "Type": "Object",
-        "Name": "Hashbrowns",
-        "Index": "210",
-        "Stack": 1
-      },
-      {
-        "Type": "Object",
-        "Name": "Fried Mushroom",
-        "Index": "205",
-        "Stack": 1
-      }
+      { "Type": "Object", "Name": "Hashbrowns", "Index": "210", "Stack": 1 },
+      { "Type": "Object", "Name": "Fried Mushroom", "Index": "205", "Stack": 1 }
     ],
     "Conditions": "Hearts Evelyn 6, HasReceivedMail Evelyn_5_Hearts",
     "Repeatable": false
   },
-  // Carta de 7 Corações: Arroz Doce e Planta Sazonal (Decoração)
+  
   {
     "Id": "Evelyn_7_Hearts",
     "GroupId": "EvelynGifts",
     "Text": "evelyn.7",
     "Attachments": [
-      {
-        "Type": "Object",
-        "Name": "Rice Pudding",
-        "Index": "232",
-        "Stack": 1
-      },
-      {
-        "Type": "BigCraftable",
-        "Name": "Seasonal Plant",
-        "Index": "192",
-        "Stack": 1
-      }
+      { "Type": "Object", "Name": "Rice Pudding", "Index": "232", "Stack": 1 },
+      { "Type": "BigCraftable", "Name": "Seasonal Plant", "Index": "192", "Stack": 1 }
     ],
     "Conditions": "Hearts Evelyn 7, HasReceivedMail Evelyn_6_Hearts",
     "Repeatable": false
   },
-  // Carta de 8 Corações: Recheio Especial e Planta Sazonal (Decoração)
+  
   {
     "Id": "Evelyn_8_Hearts",
     "GroupId": "EvelynGifts",
     "Text": "evelyn.8",
     "Attachments": [
-      {
-        "Type": "Object",
-        "Name": "Stuffing",
-        "Index": "239",
-        "Stack": 1
-      },
-      {
-        "Type": "BigCraftable",
-        "Name": "Seasonal Plant",
-        "Index": "204",
-        "Stack": 1
-      }
+      { "Type": "Object", "Name": "Stuffing", "Index": "239", "Stack": 1 },
+      { "Type": "BigCraftable", "Name": "Seasonal Plant", "Index": "204", "Stack": 1 }
     ],
     "Conditions": "Hearts Evelyn 8, HasReceivedMail Evelyn_7_Hearts",
     "Repeatable": false
   },
-  // Carta de 9 Corações: Doce de Oxicoco e Decoração Sazonal
+  
   {
     "Id": "Evelyn_9_Hearts",
     "GroupId": "EvelynGifts",
     "Text": "evelyn.9",
     "Attachments": [
-      {
-        "Type": "Object",
-        "Name": "Cranberry Candy",
-        "Index": "612",
-        "Stack": 1
-      },
-      {
-        "Type": "BigCraftable",
-        "Name": "Seasonal Decor",
-        "Index": "48",
-        "Stack": 1
-      }
+      { "Type": "Object", "Name": "Cranberry Candy", "Index": "612", "Stack": 1 },
+      { "Type": "BigCraftable", "Name": "Seasonal Decor", "Index": "48", "Stack": 1 }
     ],
     "Conditions": "Hearts Evelyn 9, HasReceivedMail Evelyn_8_Hearts",
     "Repeatable": false
   },
-  // Carta de 10 Corações: Bolo Rosa e Vaso de Flores (Decoração)
+  
   {
     "Id": "Evelyn_10_Hearts",
     "GroupId": "EvelynGifts",
     "Text": "evelyn.10",
     "Attachments": [
-      {
-        "Type": "Object",
-        "Name": "Pink Cake",
-        "Index": "221",
-        "Stack": 1
-      },
-      {
-        "Type": "BigCraftable",
-        "Name": "Tub o' Flowers",
-        "Index": "108",
-        "Stack": 1
-      }
+      { "Type": "Object", "Name": "Pink Cake", "Index": "221", "Stack": 1 },
+      { "Type": "BigCraftable", "Name": "Tub o' Flowers", "Index": "108", "Stack": 1 }
     ],
     "Conditions": "Hearts Evelyn 10, HasReceivedMail Evelyn_9_Hearts",
     "Repeatable": false
