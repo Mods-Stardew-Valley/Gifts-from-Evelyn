@@ -32,6 +32,18 @@ Correct files upload
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Evelyn
 
+- Remove automated changelog workflow
+
+Delete the GitHub Actions workflow that automatically generated and committed CHANGELOG.md updates on pushes to main. This workflow will no longer run.
+
+- Nova pasta
+
+teste do git
+
+- Replace git hooks with GitHub Actions workflow
+
+Remove local GitAutomation PowerShell scripts and replace with GitHub Actions workflow for automated CHANGELOG.md updates using git-cliff. The new workflow generates the changelog on every push to main.
+
 
 ### ♻️ Refatoração
 
@@ -59,6 +71,8 @@ Correct files upload
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
