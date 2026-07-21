@@ -22,6 +22,10 @@ Updated corret files
 
 Correct files upload
 
+- internal organization and code improvement.
+
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Evelyn
+
 
 ### ♻️ Refatoração
 
@@ -39,6 +43,8 @@ Correct files upload
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
