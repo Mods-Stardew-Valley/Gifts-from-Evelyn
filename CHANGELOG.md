@@ -62,6 +62,10 @@ Updated the JSON structure for Evelyn's messages, correcting the key format and 
 
 Updated the default.json file to include a new greeting message from Granny Evelyn while retaining existing messages.
 
+- Update manifest.json for version 1.1.1
+
+Updated the version and description in manifest.json. Changed minimum version for ContentPackFor.
+
 
 ### ♻️ Refatoração
 
@@ -91,6 +95,8 @@ Updated the default.json file to include a new greeting message from Granny Evel
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
