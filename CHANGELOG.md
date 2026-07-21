@@ -58,6 +58,10 @@ Added a new key 'Evelyn Repeteable' with placeholder text and retained existing 
 
 Updated the JSON structure for Evelyn's messages, correcting the key format and ensuring consistency.
 
+- Add new greeting message from Granny Evelyn
+
+Updated the default.json file to include a new greeting message from Granny Evelyn while retaining existing messages.
+
 
 ### ♻️ Refatoração
 
@@ -87,6 +91,8 @@ Updated the JSON structure for Evelyn's messages, correcting the key format and 
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
