@@ -1,0 +1,33 @@
+name: Atualizar CHANGELOG
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Instalar git-cliff
+        run: |
+          cargo install git-cliff
+
+      - name: Gerar CHANGELOG.md
+        run: |
+          git cliff -o CHANGELOG.md
+
+      - name: Commitar alterações
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: atualiza CHANGELOG.md [skip ci]"
+          file_pattern: CHANGELOG.md
