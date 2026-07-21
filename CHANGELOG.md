@@ -44,6 +44,8 @@ teste do git
 
 Remove local GitAutomation PowerShell scripts and replace with GitHub Actions workflow for automated CHANGELOG.md updates using git-cliff. The new workflow generates the changelog on every push to main.
 
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Evelyn
+
 
 ### ♻️ Refatoração
 
@@ -83,5 +85,13 @@ Remove local GitAutomation PowerShell scripts and replace with GitHub Actions wo
 - atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
+
+- atualiza CHANGELOG.md [skip ci]
+
+
+### 🔧 Manutenção
+
+
+- Update version to 1.1.0
 
 
