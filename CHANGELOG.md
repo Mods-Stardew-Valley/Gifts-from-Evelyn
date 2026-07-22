@@ -3,6 +3,24 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
+## v1.2.1 - 2026-07-22
+
+
+
+### Outras alterações
+
+
+- Bump version to 1.2.1
+
+Update manifest.json Version from 1.2.0 to 1.2.1 to reflect a new patch release. No other changes.
+
+
+### 📚 Documentação
+
+
+- atualiza CHANGELOG.md [skip ci]
+
+
 ## v1.2.0 - 2026-07-22
 
 
