@@ -18,13 +18,24 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Instalar git-cliff
+      - name: Ler versão do manifesto
+        id: manifest
         run: |
-          cargo install git-cliff
+          VERSION=$(jq -r '.Version' manifest.json)
+          echo "version=v$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Criar tag se a versão mudou
+        run: |
+          if ! git rev-parse "${{ steps.manifest.outputs.version }}" >/dev/null 2>&1; then
+            git tag "${{ steps.manifest.outputs.version }}"
+            git push origin "${{ steps.manifest.outputs.version }}"
+          fi
 
       - name: Gerar CHANGELOG.md
-        run: |
-          git cliff -o CHANGELOG.md
+        uses: orhun/git-cliff-action@v4
+        with:
+          config: cliff.toml
+          args: --output CHANGELOG.md
 
       - name: Commitar alterações
         uses: stefanzweifel/git-auto-commit-action@v5
