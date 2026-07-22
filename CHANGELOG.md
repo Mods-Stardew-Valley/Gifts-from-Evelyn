@@ -3,12 +3,16 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
-## Unreleased
+## v1.2.0 - 2026-07-22
 
 
 
 ### Outras alterações
 
+
+- Relocate mod files; add release workflow
+
+Move mod content files out of the nested "[MFM] Gifts from Evelyn" folder into repository paths (i18n/*, mail.json, manifest.json) and normalize JSON formatting. Update .github/workflows/changelog.yml to read manifest Version, create a tag when the version changes, generate CHANGELOG and release notes, and create a GitHub Release with the generated notes. This automates release creation and simplifies repository layout.
 
 - Update changelog.yml
 
@@ -117,6 +121,8 @@ Updated corret files
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
