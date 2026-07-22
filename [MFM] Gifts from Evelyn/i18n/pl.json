@@ -1,15 +1,15 @@
 //Polish Translation
 //pl.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "EvelynRepeteable": "Witaj, kochanie!^Dzisiaj pomyslalam o tobie i chcialam wyslac ci maly upominek.^^Mam nadzieje, ze sprawi ci odrobine radosci.^Dziekuje, ze jestes tak wspanialym przyjacielem.^^Z serdecznymi usciskami,^- Babcia Evelyn",
+  "evelyn.1": "Witaj, kochanie.^Zauwazylam, jak ciezko ostatnio pracujesz na swojej farmie.^Kiedy porzadkowalam szafki, znalazlam te pozostale nasiona.^^Jestem pewna, ze na twojej farmie beda mialy znacznie lepiej.^Tylko nie zapominaj od czasu do czasu odpoczac.^^Z serdecznymi usciskami,^- Babcia Evelyn",
+  "evelyn.2": "Witaj ponownie!^Zawsze sie usmiecham, gdy widze, jak przechodzisz obok naszego malego domku.^George mowi, ze mu to nie przeszkadza, ale wiem, ze bardzo lubi twoje odwiedziny.^^Wybralam dla ciebie te cebulki kwiatow, aby twoja farma byla jeszcze piekniejsza.^Mam nadzieje, ze zakwitna tak pieknie jak nasza przyjazn.^^Z serdecznymi usciskami,^- Babcia Evelyn",
+  "evelyn.3": "Kochanie,^Kwiaty przy moim oknie zakwitly i od razu pomyslalam o tobie.^To takie piekne patrzec, jak nasza przyjazn z kazdym dniem staje sie silniejsza.^^Przesylam ci kilka moich ulubionych nasion.^Dbaj o nie dobrze, a na pewno przyniosa wiele radosci twojej farmie.^^Z serdecznymi usciskami,^- Babcia Evelyn",
+  "evelyn.4": "Witaj!^Pogoda sie zmienia, a ogrod wymaga coraz wiecej troski, ale na dobrych przyjaciol zawsze znajdzie sie czas.^^Mam nadzieje, ze te nasiona wypelnia twoja farme pieknymi kolorami i cudownym zapachem.^Kiedy zakwitna, mam nadzieje, ze przypomna ci o mnie.^^Serdecznie cie przytulam,^- Babcia Evelyn",
+  "evelyn.5": "Mam nadzieje, ze wszystko u ciebie dobrze.^Przechowywalam to rzadkie nasiono na wyjatkowa okazje, ale potem zrozumialam, ze nie ma lepszego momentu, by podziekowac ci za twoja przyjazn.^^Przygotowalam tez ozdobe z suszonych slonecznikow do twojego domu.^Jestem pewna, ze uczyni go jeszcze bardziej przytulnym.^^Z serdecznymi usciskami,^- Babcia Evelyn",
+  "evelyn.6": "Witaj, kochanie.^Przy tylu obowiazkach na farmie czasem pewnie zapominasz odpoczac i porzadnie zjesc.^^Dlatego przygotowalam dla ciebie syty obiad, zebys mogl zabrac go ze soba.^Obiecaj mi, ze bedziesz dbac rowniez o siebie, dobrze?^^Serdecznie cie przytulam,^- Babcia Evelyn",
+  "evelyn.7": "Kochanie,^Dzis rano bylam w kuchni, a zapach ryzu na mleku przypomnial mi o tobie.^^Odlozylam dla ciebie porcyjke,^a do tego mala roslinke, ktora niedawno przesadzilam.^Jestem pewna, ze bedzie pieknie wygladac na twoim ganku.^^Z serdecznymi usciskami,^- Babcia Evelyn",
+  "evelyn.8": "Witaj!^Dzisiaj przygotowalam farsz, ktory George tak bardzo lubi, i jak zwykle ugotowalam go za duzo.^Dlatego odlozylam dla ciebie spora porcje.^^Przesylam ci rowniez rosline z mojego ogrodu.^Zmienia sie wraz z porami roku i zawsze wywoluje usmiech na mojej twarzy. Mam nadzieje, ze u ciebie bedzie tak samo.^^Serdecznie cie przytulam,^- Babcia Evelyn",
+  "evelyn.9": "Kochanie,^Przygotowalam porcje moich zurawinowych slodyczy i odlozylam dla ciebie te najsmaczniejsze.^^Znalazlam te ozdobe w starym kufrze i pomyslalam, ze bedzie idealnie pasowala do twojego przytulnego domu.^Dziekuje, ze wnosisz tyle radosci do naszej malej miejscowosci.^^Z serdecznymi usciskami,^- Babcia Evelyn",
+  "evelyn.10": "Nie potrafie wyrazic slowami, jak bardzo odmieniles nasze zycie na lepsze.^George i ja naprawde uwazamy cie za czlonka naszej rodziny.^^Upieklam swoje najlepsze ciasto na ta okazje i przygotowalam dla ciebie ten piekny kwietnik.^W naszym domu zawsze bedzie czekalo na ciebie cieple i serdeczne miejsce.^^Z cala moja miloscia,^- Babcia Evelyn"
 }

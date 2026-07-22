@@ -1,15 +1,15 @@
 //Vietnamese Translation
 //vi.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "EvelynRepeteable": "Chào cháu yêu!^Hôm nay bà nghĩ đến cháu nên muốn gửi một chút quà nhỏ.^^Hy vọng món quà này sẽ mang lại chút niềm vui cho ngày của cháu.^Cảm ơn cháu vì đã là một người bạn tuyệt vời.^^Thương ái,^- Bà Evelyn",
+  "evelyn.1": "Chào cháu yêu.^Bà nhận thấy dạo này cháu làm việc rất chăm chỉ ở trang trại.^^Khi dọn dẹp tủ, bà tìm thấy mấy hạt giống còn sót lại này.^^Bà tin chắc chúng sẽ phát triển tốt hơn nhiều ở trang trại của cháu.^Nhưng đừng quên dành chút thời gian nghỉ ngơi nhé.^^Thương ái,^- Bà Evelyn",
+  "evelyn.2": "Lại là bà đây!^Bà luôn rất vui mỗi khi thấy cháu đi ngang qua ngôi nhà nhỏ của vợ chồng bà.^Ông George nói là không quan tâm, nhưng bà biết ông ấy rất thích cháu đến thăm đấy.^^Bà đã tách riêng những củ giống này để giúp trang trại của cháu thêm đẹp.^Bà hy vọng chúng sẽ nở hoa rực rỡ như tình bạn của chúng ta.^^Thương ái,^- Bà Evelyn",
+  "evelyn.3": "Cháu yêu,^Những bông hoa bên cửa sổ nhà bà đang nở rộ và làm bà nhớ đến cháu.^Thật tuyệt vời khi được chứng kiến tình bạn của chúng ta phát triển đẹp đẽ như vậy.^^Bà gửi cho cháu một vài hạt giống yêu thích của bà.^Hãy chăm sóc chúng thật tốt, bà tin chúng sẽ lấp đầy trang trại của cháu bằng niềm vui.^^Thương ái,^- Bà Evelyn",
+  "evelyn.4": "Chào cháu!^Thời tiết đang thay đổi và khu vườn cần được chăm sóc, nhưng bà luôn có thời gian để nghĩ về những người bạn tốt.^^Hy vọng những hạt giống này sẽ mang lại màu sắc tươi đẹp và hương thơm dễ chịu cho trang trại của cháu.^Khi chúng nở hoa, bà hy vọng cháu sẽ nhớ đến bà.^^Gửi cháu ôm thắm thiết,^- Bà Evelyn",
+  "evelyn.5": "Hy vọng cháu vẫn khỏe.^Bà đã giữ hạt giống hiếm này cho một dịp đặc biệt, nhưng bà nhận ra không có thời điểm nào tốt hơn lúc này để cảm ơn tình bạn của cháu.^^Bà cũng chuẩn bị một bó hoa hướng dương khô này để trang trí nhà cho cháu.^Bà tin chắc nó sẽ làm cho ngôi nhà thêm phần ấm cúng.^^Thương ái,^- Bà Evelyn",
+  "evelyn.6": "Chào cháu yêu.^Bà biết với tất cả công việc nặng nhọc ở trang trại, đôi khi cháu quên nghỉ ngơi và ăn uống đàng hoàng.^^Vì vậy bà đã chuẩn bị một bữa trưa thật bổ dưỡng để cháu mang theo trong ba lô hôm nay.^Hãy hứa với bà là cháu sẽ chăm sóc bản thân một chút nhé, được không?^^Gửi cháu ôm thắm thiết,^- Bà Evelyn",
+  "evelyn.7": "Cháu yêu,^Bà đã dành cả buổi sáng trong bếp và mùi chè gạo làm bà nhớ đến cháu.^^Bà đã để dành một phần cho cháu,^cùng với một cây nhỏ bà mới sang chậu gần đây.^Bà tin chắc nó sẽ rất đẹp khi đặt ở hiên nhà cháu.^^Thương ái,^- Bà Evelyn",
+  "evelyn.8": "Chào cháu!^Hôm nay bà làm món nhân bánh mà ông George rất thích, và như thường lệ bà lại làm quá nhiều,^nên bà đã để dành một phần lớn cho cháu.^^Bà cũng gửi tặng cháu cây này từ khu vườn của bà.^Nó thay đổi theo từng mùa và luôn làm bà mỉm cười. Bà hy vọng nó cũng sẽ mang lại niềm vui tương tự cho cháu.^^Gửi cháu ôm thắm thiết,^- Bà Evelyn",
+  "evelyn.9": "Cháu yêu,^Bà vừa nướng một mẻ bánh mứt nam việt quất và đã chọn những chiếc ngon nhất cho cháu.^^Bà tìm thấy đồ trang trí này bị lãng quên trong rương và nghĩ nó sẽ rất hợp với ngôi nhà ấm cúng của cháu.^Cảm ơn cháu đã mang lại nhiều niềm vui cho ngôi làng của chúng ta.^^Thương ái,^- Bà Evelyn",
+  "evelyn.10": "Bà không thể diễn tả hết sự hiện diện của cháu đã thay đổi cuộc sống của vợ chồng bà tốt đẹp đến nhường nào.^Bà và ông George coi cháu như một phần của gia đình.^^Bà đã làm chiếc bánh ngon nhất của mình để ăn mừng, cùng với chậu hoa đẹp đẽ này.^Ngôi nhà của bà sẽ luôn có một nơi ấm áp chờ đón cháu.^^Với tất cả tình yêu thương,^- Bà Evelyn"
 }
