@@ -18,16 +18,45 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Ler versão do manifesto
+        id: manifest
+        run: |
+          VERSION=$(jq -r '.Version' manifest.json)
+          echo "version=v$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Criar tag se a versão mudou
+        id: tag
+        run: |
+          TAG="${{ steps.manifest.outputs.version }}"
+          if ! git rev-parse "$TAG" >/dev/null 2>&1; then
+            git tag "$TAG"
+            git push origin "$TAG"
+            echo "new_tag=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "new_tag=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Gerar CHANGELOG.md
         uses: orhun/git-cliff-action@v4
         with:
           config: cliff.toml
           args: --output CHANGELOG.md
-        env:
-          OUTPUT: CHANGELOG.md
 
       - name: Commitar alterações
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: atualiza CHANGELOG.md [skip ci]"
           file_pattern: CHANGELOG.md
+
+      - name: Gerar notas da release
+        if: steps.tag.outputs.new_tag == 'true'
+        run: |
+          git cliff --unreleased --strip all -o release_notes.md
+
+      - name: Criar Release no GitHub
+        if: steps.tag.outputs.new_tag == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.manifest.outputs.version }}
+          body_path: release_notes.md
+          name: "Versão ${{ steps.manifest.outputs.version }}"

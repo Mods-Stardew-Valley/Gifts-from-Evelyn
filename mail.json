@@ -1,0 +1,171 @@
+[
+     {	
+    "Id":"ResetEvelyn",
+	  "AutoOpen": true,
+    "MailReceivedToRemove": [
+		  "Evelyn_1_Heart",
+		  "Evelyn_2_Heart",
+		  "Evelyn_3_Heart",
+		  "Evelyn_4_Heart",
+		  "Evelyn_5_Heart",
+		  "Evelyn_6_Heart",
+		  "Evelyn_7_Heart",
+		  "Evelyn_8_Heart",
+		  "Evelyn_9_Heart",
+		  "Evelyn_10_Heart"
+	  ]
+    },
+ 
+    {
+    "Id": "Evelyn_1_Heart",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.1",
+    "Attachments": [
+      { "Type": "Object", "Name": "Mixed Flower Seeds", "Index": "MixedFlowerSeeds", "Stack": 8 },
+      { "Type": "Object", "Name": "Mixed Seeds", "Index": "770", "Stack": 8 }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 1 } ]
+  },
+  
+  {
+    "Id": "Evelyn_2_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.2",
+    "Attachments": [
+      { "Type": "Object", "Name": "Tulip Bulb", "Index": "427", "Stack": 6 },
+      { "Type": "Object", "Name": "Jazz Seeds", "Index": "429", "Stack": 6 }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 2 } ]
+  },
+  
+  {
+    "Id": "Evelyn_3_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.3",
+    "Attachments": [
+      { "Type": "Object", "Name": "Sunflower Seeds", "Index": "431", "Stack": 5 },
+      { "Type": "Object", "Name": "Spangle Seeds", "Index": "455", "Stack": 5 }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 3 } ]
+  },
+  
+  {
+    "Id": "Evelyn_4_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.4",
+    "Attachments": [
+      { "Type": "Object", "Name": "Poppy Seeds", "Index": "453", "Stack": 5 },
+      { "Type": "Object", "Name": "Fairy Seeds", "Index": "425", "Stack": 4
+      }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 4 } ]
+  },
+  
+  {
+    "Id": "Evelyn_5_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.5",
+    "Attachments": [
+      { "Type": "Object", "Name": "Rare Seed", "Index": "347", "Stack": 1 },
+      { "Type": "BigCraftable", "Name": "Dried Sunflowers", "Index": "112", "Stack": 1 }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 5 } ]
+
+  },
+  
+  {
+    "Id": "Evelyn_6_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.6",
+    "Attachments": [
+      { "Type": "Object", "Name": "Hashbrowns", "Index": "210", "Stack": 1 },
+      { "Type": "Object", "Name": "Fried Mushroom", "Index": "205", "Stack": 1 }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 6 } ]
+
+  },
+  
+  {
+    "Id": "Evelyn_7_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.7",
+    "Attachments": [
+      { "Type": "Object", "Name": "Rice Pudding", "Index": "232", "Stack": 1 },
+      { "Type": "BigCraftable", "Name": "Seasonal Plant", "Index": "192", "Stack": 1 }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 7 } ]
+  },
+  
+  {
+    "Id": "Evelyn_8_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.8",
+    "Attachments": [
+      { "Type": "Object", "Name": "Stuffing", "Index": "239", "Stack": 1 },
+      { "Type": "BigCraftable", "Name": "Seasonal Plant", "Index": "204", "Stack": 1 }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 8 } ]
+  },
+  
+  {
+    "Id": "Evelyn_9_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.9",
+    "Attachments": [
+      { "Type": "Object", "Name": "Cranberry Candy", "Index": "612", "Stack": 1 },
+      { "Type": "BigCraftable", "Name": "Seasonal Decor", "Index": "48", "Stack": 1 }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 9 } ]
+
+  },
+  
+  {
+    "Id": "Evelyn_10_Hearts",
+    "GroupId": "EvelynGifts",
+    "Text": "evelyn.10",
+    "Attachments": [
+      { "Type": "Object", "Name": "Pink Cake", "Index": "221", "Stack": 1 },
+      { "Type": "BigCraftable", "Name": "Tub o' Flowers", "Index": "108", "Stack": 1 }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 10 } ]
+  },
+
+  {
+	"Id": "EvelynRepeteable",
+    "GroupId": "EvelynGifts",
+    "Text": "EvelynRepeteable",
+	"Repeatable": true,
+	"RandomChance": 0.075,
+	"FriendshipConditions": [ { "NpcName": "Evelyn", "FriendshipLevel": 1 } ],
+	"RandomlyChooseAttachment": 1,
+	"Attachments": [
+		{ "Type": "Object", "Name": "Mixed Flower Seeds", "Index": "MixedFlowerSeeds", "Stack": 3, "RandomGroup": "Garden" },
+    { "Type": "Object", "Name": "Mixed Flower Seeds", "Index": "MixedFlowerSeeds", "Stack": 5, "RandomGroup": "Garden" },
+    { "Type": "Object", "Name": "Mixed Flower Seeds", "Index": "MixedFlowerSeeds", "Stack": 8, "RandomGroup": "Garden" },
+
+		{ "Type": "Object", "Index": "427", "Stack": 2, "RandomGroup": "Garden" }, //Tulip Bulb
+    { "Type": "Object", "Index": "427", "Stack": 3, "RandomGroup": "Garden" }, //Tulip Bulb
+    { "Type": "Object", "Index": "427", "Stack": 4, "RandomGroup": "Garden" }, //Tulip Bulb
+
+		{ "Type": "Object", "Index": "429", "Stack": 2, "RandomGroup": "Garden" }, //Jazz Seeds
+    { "Type": "Object", "Index": "429", "Stack": 3, "RandomGroup": "Garden" }, //Jazz Seeds
+    { "Type": "Object", "Index": "429", "Stack": 4, "RandomGroup": "Garden" }, //Jazz Seeds
+		
+    { "Type": "Object", "Index": "431", "Stack": 3, "RandomGroup": "Garden" }, //Sunflower Seeds
+    { "Type": "Object", "Index": "431", "Stack": 4, "RandomGroup": "Garden" }, //Sunflower Seeds
+    { "Type": "Object", "Index": "431", "Stack": 5, "RandomGroup": "Garden" }, //Sunflower Seeds
+
+		{ "Type": "Object", "Index": "455", "Stack": 2, "RandomGroup": "Garden" }, //Spangle Seeds
+    { "Type": "Object", "Index": "455", "Stack": 3, "RandomGroup": "Garden" }, //Spangle Seeds
+    { "Type": "Object", "Index": "455", "Stack": 4, "RandomGroup": "Garden" }, //Spangle Seeds
+
+		{ "Type": "Object", "Index": "453", "Stack": 2, "RandomGroup": "Garden" }, //Poppy Seeds
+    { "Type": "Object", "Index": "453", "Stack": 3, "RandomGroup": "Garden" }, //Poppy Seeds
+    { "Type": "Object", "Index": "453", "Stack": 4, "RandomGroup": "Garden" }, //Poppy Seeds
+		
+    { "Type": "Object", "Index": "425", "Stack": 1, "RandomGroup": "Garden" }, //Fairy Seeds
+    { "Type": "Object", "Index": "425", "Stack": 2, "RandomGroup": "Garden" }, //Fairy Seeds
+    { "Type": "Object", "Index": "425", "Stack": 3, "RandomGroup": "Garden" } //Fairy Seeds
+    ]
+}
+]
